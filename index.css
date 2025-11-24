@@ -1,0 +1,39 @@
+h2{
+    background-color: green;
+}
+a:hover{
+ color: red;   
+}
+
+form{
+    background-image: url(wild.jpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+
+}
+footer{
+    text-align:center;
+      background: green;
+}
+p1{
+    font-size: 30px;
+     color: rgb(99, 99, 99);
+}
+p{
+    font-size: 20px;
+}
+.Frank {
+ font-size: 30px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding: 10px;
+    
+}
+.body{
+    text-align: center;
+}
